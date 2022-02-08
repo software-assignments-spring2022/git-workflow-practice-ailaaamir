@@ -7,6 +7,4 @@ Machine learning is thought to be an optimization of artificial intelligence tec
 - Banking and Finance: detect and prevent fraudulent transactions
 - Transportation: allows self driving cars to interpret, predict, and respond to data for autonomous driving
 
-> The growth of the machine learning industry seems to be an immense jump of 44%, I wonder if the industry would actually be able to achieve $20.83 billion in innovation or if this seems to be a tech bubble due to lack of public understanding
-
-- Muhammad Aziz
+> The growth of the machine learning industry seems to be an immense jump of 44%, I wonder if the industry would actually be able to achieve $20.83 billion in innovation or if this seems to be a tech bubble due to lack of public understanding - Muhammad Aziz
