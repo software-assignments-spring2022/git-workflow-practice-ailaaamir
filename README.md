@@ -8,3 +8,5 @@ Machine learning is thought to be an optimization of artificial intelligence tec
 - Transportation: allows self driving cars to interpret, predict, and respond to data for autonomous driving
 
 > The growth of the machine learning industry seems to be an immense jump of 44%, I wonder if the industry would actually be able to achieve $20.83 billion in innovation or if this seems to be a tech bubble due to lack of public understanding - Muhammad Aziz
+
+> I also think that the field of machine learning is pretty interesting, especially now that we have access to so much data that we didn't have before. I'm excited to see the advancements of the field and how it'll benefit many other fields - Evan LaBanca
